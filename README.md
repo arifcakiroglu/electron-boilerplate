@@ -1,5 +1,7 @@
 electron-boilerplate
 ==============
+
+[![Join the chat at https://gitter.im/arifcakiroglu/electron-boilerplate](https://badges.gitter.im/arifcakiroglu/electron-boilerplate.svg)](https://gitter.im/arifcakiroglu/electron-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Comprehensive boilerplate application for [Electron runtime](http://electron.atom.io).  
 
 Scope of this project:
